@@ -1,4 +1,4 @@
-# Fin-Tune LLM to downstream task using Unsloth & TRL from HF
+# Fine-Tune LLM to downstream task using Unsloth & TRL from HF
 
 To run this, press "*Runtime*" and press "*Run all*" on a **free** Tesla T4 Google Colab instance!
 
